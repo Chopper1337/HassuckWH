@@ -1,9 +1,9 @@
 ## Hassium Wallhack 
 ![alt text](assets/ui.png)
 
-**A simple wallhack for Linux systems.**
+**A mindlessly pasted simple wallhack for Linux systems, stolen directly from [Sumandora](https://github.com/Sumandora/).**
 
-**Note:** This wallhack is specifically designed for Linux systems. It will **not** function on any other operating system.
+**Note:** This program is pasted directly from [Sumandora](https://github.com/Sumandora/). Please use the original repo [here](https://github.com/Sumandora/cs2_one_byte_wallhack).
 
 **How it works:**
 
@@ -13,7 +13,9 @@ This results in the game displaying:
 * **Overhead indicators** for all players, including enemies.
 * **Used weapon information** for all players, including enemies.
 
-**Created with ❤️ in Poland**
+**Pasted with ❤️ in Poland**
+
+**Created with ❤️ in Germany**
 
 ![alt text](assets/ingame.png)
 
