@@ -60,8 +60,8 @@ fn main() {
 ▐▌ ▐▌▝▚▄▟▌▀▄▄  ▀▄▄  ▄ ▀▄▄▞▘█ █ █ 
 ▐▛▀▜▌     ▄▄▄▀ ▄▄▄▀ █      █   █ 
 ▐▌ ▐▌               █       "#.red(), VERSION.blue());
-    println!("{} {}", "Hassium".red(),"Wallhack".green());
-    println!("{}", "https://szczota.is-a.dev/".blue());
-    println!("{}", "Started Hassium...".green());
+    println!("{} {}", "cs2_one_byte_wallhack".red(),"Wallhack".green());
+    println!("{}", "https://github.com/Sumandora".blue());
+    println!("{}", "Started cs2_one_byte_wallhack...".green());
     wallhack();
 }
